@@ -1,4 +1,3 @@
-
 $(document).ready(function () {
   var envelope = $("#envelope");
   var btn_open = $("#open");
