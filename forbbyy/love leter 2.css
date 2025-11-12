@@ -18,9 +18,9 @@
         <div class="front flap"></div>
         <div class="front pocket"></div>
         <div class="letter">
-          <div class="words line1">To: sayanggkuu</div>
-          <div class="words line2">Dear Selda Julita, you are so beautiful</div>
-          <div class="words line3">That every time i see you</div>
+          <div class="words line1">To: bbbyy</div>
+          <div class="words line2">haii bby, cepat sembuh ya, semoga dapat mendali emassss</div>
+          <div class="words line3">i love u every time, bbbyy.</div>
           <div class="words line4">my world stops,</div>
         </div>
         <div class="hearts">
